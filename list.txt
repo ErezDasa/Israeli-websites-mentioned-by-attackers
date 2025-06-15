@@ -1,3 +1,9 @@
+holon.muni.il
+beer-sheva.muni.il
+petah-tikva.muni.il
+rishonlezion.muni.il
+jerusalem.muni.il
+moag.gov.il
 boi.org.il
 mossad.gov.il
 harel‑group.co.il
