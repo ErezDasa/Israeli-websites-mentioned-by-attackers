@@ -10,7 +10,25 @@ bsel.co.il
 meprolight.com
 rafael.co.il
 rbox.rafael.co.il
- rt.co.il
+rt.co.il
+nsc.gov.il
+vatikim.gov.il
+mof.gov.il
+most.gov.il
+justice.gov.il
+mops.gov.il
+my.gov.il
+mni.gov.il
+moin.gov.il
+negev-galil.gov.il
+govmap.gov.il
+labor.gov.il
+mapi.gov.il
+soreq.gov.il
+tamuz.gov.il
+shaam2.gov.il
+ps.gov.il
+gpo.gov.il
 ashot.co.il
 cal.co.il
 run.tournament.org.il
