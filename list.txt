@@ -179,7 +179,8 @@ jerusalem.muni.il
 misim.gov.il
 dsit.co.il
 israelbonds.com																									
-il.usembassy.gov																									
+il.usembassy.gov															
+ippi.org.il
 main.knesset.gov.il																									
 israelvisa.in																									
 citypass.co.il																									
