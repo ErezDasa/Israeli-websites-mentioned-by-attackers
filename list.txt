@@ -268,7 +268,14 @@ fibi.co.il
 mod.gov.il																									
 debka.com																									
 timesofisrael.com																									
-iai.co.il																									
+iai.co.il				
+37.142.129.246
+77.137.103.238
+84.94.183.84
+5.29.42.73
+109.64.80.164
+213.8.129.238
+46.116.5.222
 omnisys.co.il																									
 american-aviation.co.il																									
 tzevaadom.co.il																									
